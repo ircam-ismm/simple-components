@@ -1,3 +1,5 @@
+## This package is now deprecated, please see the [@ircam/sc-components](https://github.com/ircam-ismm/sc-components) for the new version of the library
+
 # `@ircam/simple-components`
 
 > set of web components for audio interfaces and rapid prototyping, created using the [lit](https://lit.dev/) library.
